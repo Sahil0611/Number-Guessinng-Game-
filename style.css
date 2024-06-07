@@ -19,7 +19,7 @@
     border: 1px solid #ddd;
     border-top-left-radius: 40px;
     border-top-right-radius: 40px;
-    width:max-content;
+    width:100%;
     padding: 8px;
 }
 h1{
