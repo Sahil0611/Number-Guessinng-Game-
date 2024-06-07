@@ -8,7 +8,6 @@
 }
 .Wrapper{
     max-width:fit-content;
-    max-width: 520px;
     overflow: hidden;
     display: flex;
     flex-direction: column;
