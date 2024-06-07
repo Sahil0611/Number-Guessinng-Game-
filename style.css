@@ -6,6 +6,14 @@
     justify-content: center;
     align-items: center;
 }
+.Wrapper{
+    max-width:fit-content;
+    max-width: 490px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+}
 .head{
     background-color: white;
     border: 1px solid #ddd;
@@ -19,7 +27,7 @@ h1{
 }
 .entry{
     background-color: white;
-    width: 520px;
+    width: 490px;
     border-bottom-left-radius: 38px;
     border-bottom-right-radius: 38px;
     margin: 1px;
